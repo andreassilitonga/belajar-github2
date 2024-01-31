@@ -1,0 +1,1 @@
+baris1 file3.txt
